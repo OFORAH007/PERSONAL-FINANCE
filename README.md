@@ -104,7 +104,11 @@ Steps carried out:
 ##  Dashboards
 Dashboards were built in **Excel & Power BI** using **Power Query** and **DAX**.  
 
-<img width="1486" height="849" alt="Personal Finance" src="https://github.com/user-attachments/assets/378eff4b-3e4b-4f6b-9233-715513bc9d3d" />
+
+
+https://github.com/user-attachments/assets/60cc58e6-6a3c-421c-acb4-57c23e0dea88
+
+
 
 
 Key Views:
