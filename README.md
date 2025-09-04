@@ -6,6 +6,9 @@ The goal is to provide **insights into income sources, spending patterns, saving
 
 By leveraging **Microsoft Excel, Power Query, and DAX**, the project helps track financial health and improve decision-making for budgeting and saving.
 
+![nick-chong-N__BnvQ_w18-unsplash](https://github.com/user-attachments/assets/841038a9-0cc3-4c9a-8aaf-412bdfbc672f)
+
+
 ---
 
 ##  Dataset Sources & Description
@@ -40,7 +43,7 @@ By leveraging **Microsoft Excel, Power Query, and DAX**, the project helps track
 
 ---
 
-
+![dmitriy-demidov-iuuJC_pjLU0-unsplash](https://github.com/user-attachments/assets/6a3951be-de7c-4815-9854-e0a9a991e6a5)
 
 
 ##  Tools Used
@@ -121,6 +124,9 @@ Key Views:
 5. Weekends show **higher discretionary spending**  
 
 ---
+
+![startae-team-7tXA8xwe4W4-unsplash](https://github.com/user-attachments/assets/29158727-0c13-49a3-9d9b-89af49b7d5c2)
+
 
 ##  Recommendations
 - Set **budget caps** for dining out & discretionary expenses  
