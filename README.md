@@ -40,7 +40,7 @@ By leveraging **Microsoft Excel, Power Query, and DAX**, the project helps track
 
 ---
 
-<img width="483" height="218" alt="Hardwork" src="https://github.com/user-attachments/assets/9d28cbfe-7c07-477f-8c8f-5de98af882f8" />
+
 
 
 ##  Tools Used
